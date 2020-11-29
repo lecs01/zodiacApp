@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZodiaApp</string>
+    <string-array name="signos">
+        <item>Aries</item>
+        <item>Touro</item>
+        <item>Gemeos</item>
+        <item>Cancer</item>
+        <item>Leao</item>
+        <item>Virgem</item>
+        <item>Libra</item>
+        <item>Escorpiao</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+        <item>Aquario</item>
+        <item>Peixes</item>
+    </string-array>
+</resources>
